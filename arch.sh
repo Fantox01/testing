@@ -14,7 +14,4 @@ sudo pacman -S curl
 curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
 sudo pacman -S nodejs
 yarn add sharp
-git clone https://github.com/Fantox01/Atlas-MD
-cd Atlas-MD
-yarn
-npm start
+
