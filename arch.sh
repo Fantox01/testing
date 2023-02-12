@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo pacman -Syu
 sudo pacman -S libwebp
 sudo pacman -S git
 sudo pacman -S nodejs
